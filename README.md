@@ -1,5 +1,5 @@
 # CODSOFT_AUGUST_CREDIT-CARD-FRAUD-DETECTION
-Main challenges involved in credit card fraud detection are:
+Credit Card Dtetection Codsoft Internship
 
 Enormous Data is processed every day and the model build must be fast enough to respond to the scam in time.
 Imbalanced Data i.e most of the transactions (99.8%) are not fraudulent which makes it really hard for detecting the fraudulent ones
